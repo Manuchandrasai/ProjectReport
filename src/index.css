@@ -1,0 +1,48 @@
+.login {
+  margin-top: 10%;
+  padding-left: 25%;
+}
+body{
+  text-align: center;
+  font-size: 30px;
+  position: relative;
+  background-color: rgba(127, 158, 138, 0.419);
+    }
+    button{
+      align-items: center;
+    }
+hr {
+  height: 2px;
+  background-color: black;
+}
+.field {
+  width: 502px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.loginpagebutton {
+  width: 237.5px;
+}
+.marquee {
+  padding-bottom: 0px;
+  text-transform: uppercase;
+  font-size: 2;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: red;
+}
+
+.ui.card > .image > img,
+.ui.cards > .card > .image > img {
+  height: 220px;
+}
+.ui.info.message {
+  text-align: center;
+  width: 400px;
+  height: 500px;
+  margin-top: 100px;
+  margin-left: 32%;
+  color: black;
+}
+.ui.form.container.segment.address {
+  margin-top: 70px;
+}
